@@ -1,0 +1,22 @@
+INSERT INTO track (title, artist, genre, track_length)
+VALUES
+  ('Stan', 'Eminem', 'hip-hop', 6.24),
+  ('Chop Me Up', 'Justin Timberlake', 'pop', 4.30),
+  ('Promiscouse', 'Nelly Furtado', 'lyrics', 5.10),
+  ('Rockstar', 'Nickel Back', 'rock', 3.47),
+  ('Give it to Me', 'Timbaland', 'rap', 7.02),
+  ('Voodoo People', 'The Prodigy', 'electronic', 6.35),
+  ('Ayo Technology', '50 Cent', 'hip-hop', 5.30),
+  ('Stranger', 'Gorky Park', 'rock', 4.50),
+  ('The Way I Am', 'Roze', 'hip-hop', 4.54),
+  ('Mutter', 'Rummstein', 'metal', 7.20),
+  ('Goodbye', 'Kastomarin', 'electronic', 3.40),
+  ('The best', 'Old park', 'hard rock', 4.06),
+  ('Follow Througe', 'Rolling Stone', 'pop', 6.15),
+  ('Syndicate', 'The fray', 'rock', 2.59),
+  ('Ich will', 'PR', 'metal', 5.00),
+  ('Stolen Car', 'Sting', 'pop', 3.49),
+  ('Godzilla', 'ERP', 'rap', 4.10),
+  ('Lonely', 'Kastom', 'electronic', 3.45),
+  ('Breezy', 'Chris Brown', 'r&b', 5.05),
+  ('Superache', 'Conan Gray', 'pop', 6.00);
